@@ -1,0 +1,25 @@
+.container1{
+    
+    width: 30% ;
+    height: 100%;
+    border: 2px solid black;
+    display: inline-block;
+    background-color: whitesmoke;
+}
+
+.container2{
+    
+    width: 70% ;
+    height: 100%;
+    border: 2px solid black;
+    display: inline-block;
+    background-color: whitesmoke;
+}
+.label {
+	width : 50%px;
+	margin-bottom: 10px;
+	font-weight: bold;
+    margin-left: 20px;
+    font-size: 18px;
+
+}

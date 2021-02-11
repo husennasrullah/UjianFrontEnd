@@ -1,0 +1,83 @@
+.kiri1 {
+    float : left;
+    width : 40%;
+    height: 600px;
+    font-family: Calibri;
+    border : 2px solid black;
+    background-color: whitesmoke;
+  
+ }		
+ .kanan1 {
+    float : right;
+    width : 70%;
+    height: 100%;
+    font-family: Calibri;
+ }	
+
+ .judul {
+    margin: 1em 0 0.5em 0;
+	color: #343434;
+	font-weight: normal;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+	font-size: 18px;
+	line-height: 42px;
+	text-transform: uppercase;
+	text-shadow: 0 2px white, 0 3px #777;
+}
+
+ .label {
+	width : 150px;
+	align-self : center;
+	margin-bottom: 30px;
+	font-weight: bold;
+    margin-right: 80px;
+    display: inline-block;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.label2{
+    font-size: 18px;
+}
+
+.field2 {
+    display: inline-block;
+    margin-bottom : 2px;
+    margin-left: 1px;
+    
+}
+
+.field {
+	display : flex;
+	font-size : 18px;
+	margin-bottom : 1px;
+}
+
+.kiri {
+    float : left;
+    width : 70%;
+    padding : 1,5vh;
+    height: 100%;
+    margin-left: 25%;
+    background: cornsilk;
+    padding-left: 2%;
+    padding-right: 2%;
+ }		
+
+ .radio{
+	height : 20px;
+	width: 100px;
+	border: 1px solid #111010;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+}
+.checkbox{
+    height : 20px;
+	width: 40px;
+	border: 1px solid #111010;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+}
+
+.nama{
+    margin-right: 40px;
+}

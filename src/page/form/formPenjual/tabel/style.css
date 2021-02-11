@@ -1,0 +1,46 @@
+.content-table {
+    border-collapse: collapse;
+    font-size: 14pt;
+    margin : 10px 0px 0px 20px ;
+    align-items: center;
+    min-width: 90%;
+    border-radius: 10px 10px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.kanan1 {
+    float : right;
+    width : 58%;
+    height: 600px;
+    border: 2px solid black;
+    margin: none;
+    background-color: whitesmoke;
+    
+
+ }	
+
+.content-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+}
+
+.content-table th,
+.content-table tr {
+    padding: 12px 15px;
+}
+
+.content-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+
+}
+
+.content-table tbody tr:nth-of-type(even){
+    background-color: #f3f3f3;
+}
+
+.content-table tbody tr:last-of-type{
+    border-bottom:2px solid #009879;
+}

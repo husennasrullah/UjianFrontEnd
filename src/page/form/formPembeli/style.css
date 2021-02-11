@@ -1,0 +1,15 @@
+.container1{
+    
+    width: 30% ;
+    height: 100%;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+.container2{
+    
+    width: 70% ;
+    height: 100%;
+    border: 2px solid black;
+    display: inline-block;
+}

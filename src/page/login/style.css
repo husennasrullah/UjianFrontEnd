@@ -1,0 +1,30 @@
+.blok{
+    width: 400px ;
+    height: 450px;
+    border: 2px solid black;
+    border-radius: 3%;
+    display: flexbox;
+    margin: 10% 30% 10% 30%;
+    padding-top: 30px;
+    background-color: whitesmoke;
+
+}
+
+.label2 {
+	width : 150px;
+	align-self : center;
+	margin-bottom: 10px;
+	font-weight: bold;
+    display: inline-block;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.login{
+	height : 30px;
+	margin-bottom: 10px;
+	width: 300px;
+	border: 1px solid #e1e1e1;
+	border-radius: 1vh;
+	text-align : center;
+	margin-left: 10px;
+}
